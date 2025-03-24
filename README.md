@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# About Me 🚀  
+### About Me 🚀  
 I'm Henry Gillett, a Computer Science Undergaduate at the University of York  
 I'm frequently developing software for raspberry pi projects, and code in both Python and Java
 <!--
