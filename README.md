@@ -1,5 +1,7 @@
 ## Hi there 👋
-- I'm Henry Gillett, a Computer Science Undergaduate at the University of York  
+
+# About Me 🚀  
+I'm Henry Gillett, a Computer Science Undergaduate at the University of York  
 I'm frequently developing software for raspberry pi projects, and code in both Python and Java
 <!--
 **Starman7312/Starman7312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
