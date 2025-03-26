@@ -2,12 +2,12 @@
 
 ### About Me 🚀  
 I'm Henry Gillett, a Computer Science Undergaduate at the University of York  
-I frequently develop software for raspberry pi and robotic projects; coding in both Python and Java
+I frequently develop software for Raspberry Pi 💻 and robotics projects 🤖; coding in both Python and Java
 
 🔭 I’m currently working on:
-- robotic-car-poject: machine vision AI powered robot
-- python_usb_robotic_arm: developing GUI for controlling robotic arm
-- internet_radio: an internet powered radio player implemented in python
+- robotic-car-poject: machine vision AI powered robotic car 🚗
+- python_usb_robotic_arm: developing GUI for controlling robotic arm 🦾
+- internet_radio: an internet powered radio player implemented in python 📻
 <!--
 **Starman7312/Starman7312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
