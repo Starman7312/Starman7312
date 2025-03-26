@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-### About Me 🚀  
+### About Me: 🚀  
 I'm Henry Gillett, a Computer Science Undergaduate at the University of York  
-I frequently develop software for Raspberry Pi 💻 and robotics projects 🤖; coding in both Python and Java
 
-##🔭 I’m currently working on:
+I frequently develop software for Raspberry Pi 💻 and robotics projects 🤖; coding in both Python and Java  
+I'm really interested in space, robotics and software development!
+
+### 🔭 I’m currently working on:
 - robotic-car-poject: machine vision AI powered robotic car 🚗
 - python_usb_robotic_arm: developing GUI for controlling robotic arm 🦾
 - internet_radio: an internet powered radio player implemented in python 📻
