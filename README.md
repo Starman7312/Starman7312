@@ -7,7 +7,7 @@ I frequently develop software for Raspberry Pi 💻 and robotics projects 🤖; 
 I'm really interested in space, robotics and software development!
 
 ### 🔭 I’m currently working on:
-- robotic-car-poject: machine vision AI powered robotic car 🚗
+- robotic-car-project: machine vision AI powered robotic car 🚗
 - python_usb_robotic_arm: developing GUI for controlling robotic arm 🦾
 - internet_radio: an internet powered radio player implemented in python 📻
 <!--
